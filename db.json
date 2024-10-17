@@ -1,0 +1,84 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "title": "Introduction to AI",
+      "text": "Artificial Intelligence (AI) is the simulation of human intelligence in machines...",
+      "author": "John Doe",
+      "category": "Artificial Intelligence",
+      "created_at": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "title": "History of Machine Learning",
+      "text": "Machine learning is a subset of artificial intelligence that evolved from pattern recognition...",
+      "author": "Jane Smith",
+      "category": "Machine Learning",
+      "created_at": "2022-11-02"
+    },
+    {
+      "id": 3,
+      "title": "Natural Language Processing",
+      "text": "Natural Language Processing (NLP) gives computers the ability to read, understand, and derive meaning from human languages...",
+      "author": "Alex Johnson",
+      "category": "Natural Language Processing",
+      "created_at": "2023-03-20"
+    },
+    {
+      "id": 4,
+      "title": "Deep Learning Applications",
+      "text": "Deep learning models, based on neural networks, are key technologies in AI applications such as image recognition...",
+      "author": "Emily Davis",
+      "category": "Deep Learning",
+      "created_at": "2023-05-10"
+    },
+    {
+      "id": 5,
+      "title": "Overview of GPT Models",
+      "text": "Generative Pretrained Transformers (GPT) are language models that generate human-like text using deep learning techniques...",
+      "author": "Michael Brown",
+      "category": "Generative Models",
+      "created_at": "2023-07-25"
+    },
+    {
+      "id": 6,
+      "title": "Ethics in AI",
+      "text": "As AI becomes more prevalent, ethical considerations arise, including fairness, transparency, and accountability...",
+      "author": "Sophia White",
+      "category": "AI Ethics",
+      "created_at": "2023-08-01"
+    },
+    {
+      "id": 7,
+      "title": "Reinforcement Learning",
+      "text": "Reinforcement learning is an area of machine learning where agents learn to make decisions by interacting with an environment...",
+      "author": "David Lee",
+      "category": "Reinforcement Learning",
+      "created_at": "2022-09-12"
+    },
+    {
+      "id": 8,
+      "title": "Computer Vision",
+      "text": "Computer vision enables machines to interpret and make decisions based on visual data, playing a key role in AI development...",
+      "author": "Anna Kim",
+      "category": "Computer Vision",
+      "created_at": "2023-06-05"
+    },
+    {
+      "id": 9,
+      "title": "AI in Healthcare",
+      "text": "Artificial intelligence is revolutionizing healthcare by improving diagnostics, patient care, and treatment plans...",
+      "author": "Paul Martinez",
+      "category": "Healthcare",
+      "created_at": "2023-02-14"
+    },
+    {
+      "id": 10,
+      "title": "Quantum Computing and AI",
+      "text": "Quantum computing promises to dramatically enhance AI by speeding up computations and enabling new types of algorithms...",
+      "author": "Laura King",
+      "category": "Quantum Computing",
+      "created_at": "2023-04-18"
+    }
+  ]
+}
